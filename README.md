@@ -61,7 +61,7 @@ NoteFlow/
 ## 🎨 App Logo
 
 <p align="center">
-  <img src="./Logo.png" width="150px">
+  <img src="./app/src/main/res/drawable/idea.png" width="150px">
 </p>
 
 ---
